@@ -1,0 +1,2 @@
+# prameela
+sample training project
